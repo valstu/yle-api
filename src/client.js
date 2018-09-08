@@ -1,4 +1,4 @@
-import request from 'request';
+import request from 'browser-request';
 import URI from 'urijs';
 import {decrypt} from './mediaurl';
 

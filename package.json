@@ -20,7 +20,9 @@
   },
   "license": "ISC",
   "dependencies": {
+    "browserify-aes": "^1.2.0",
     "commander": "^2.9.0",
+    "randombytes": "^2.0.6",
     "request": "^2.55.0",
     "urijs": "^1.17.0"
   },

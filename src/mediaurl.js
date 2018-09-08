@@ -1,4 +1,5 @@
-import {createCipheriv, createDecipheriv, randomBytes} from 'crypto'
+import { createCipheriv, createDecipheriv} from 'browserify-aes'
+import randomBytes from 'randombytes'
 
 const ALGORITHM = 'aes-128-cbc';
 
